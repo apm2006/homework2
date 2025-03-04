@@ -1,0 +1,48 @@
+body {
+    background: #f0f0c9;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+}
+
+#hero {
+    text-align: center;
+    padding: 5rem;
+}
+
+#hero > h2 {
+    margin-top: 0;
+}
+
+#hero > h1 {
+    margin-bottom: 0;
+}
+
+#hero img {
+    border-radius: 50px;
+}
+
+hr {
+    border-radius: 100%;
+    width: 75%;
+}
+
+.info {
+    width:80%;
+    margin: auto;
+    padding: 3rem;
+    border-width: 2px;
+    border-style: dotted;
+    margin-bottom: 2rem;
+    border-radius: 20px;
+}
+
+.section {
+    width:80%;
+    margin: auto;
+    padding: 3rem;
+    border-width: 2px;
+    border-style: dotted;
+    margin-bottom: 2rem;
+    border-radius: 20px;
+}
+
